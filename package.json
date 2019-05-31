@@ -1,11 +1,11 @@
 {
-  "name": "generator-react-component",
+  "name": "generator-rcs",
   "version": "1.0.0",
   "description": "Simple react component generator with JSX and JS splitting with SCSS styles",
   "files": [
     "rc"
   ],
-  "repository": "https://github.com/burninggoose/generator-react-component",
+  "repository": "https://github.com/burninggoose/generator-rcs",
   "keywords": [
     "yeoman-generator"
   ],
