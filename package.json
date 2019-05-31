@@ -5,6 +5,7 @@
   "files": [
     "rc"
   ],
+  "repository": "https://github.com/burninggoose/generator-react-component",
   "keywords": [
     "yeoman-generator"
   ],
