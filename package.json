@@ -1,6 +1,6 @@
 {
   "name": "generator-rcs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple react component generator with JSX and JS splitting with SCSS styles",
   "files": [
     "rcs"
