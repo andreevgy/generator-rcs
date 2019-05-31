@@ -1,0 +1,16 @@
+{
+  "name": "generator-react-component",
+  "version": "1.0.0",
+  "description": "Simple react component generator with JSX and JS splitting with SCSS styles",
+  "files": [
+    "rc"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Gleb \"burninggoose\" Andreev",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^4.0.1"
+  }
+}
